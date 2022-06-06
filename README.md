@@ -4,4 +4,4 @@
 ## 리스트
 :eyes:
 - [x] 2022-05-29: AWS lambda
-- [ ] 2022-06-05: AWS DynamoDB
+- [ ] 2022-06-07: AWS DynamoDB
